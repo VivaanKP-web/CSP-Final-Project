@@ -1,1 +1,1 @@
-This is the final project for CSP. We will use git and work on a platformer.
+Use this readme file to write daily notes about what you worked on. Each day you should modify this file before you commit.
