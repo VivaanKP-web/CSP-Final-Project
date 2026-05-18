@@ -1,0 +1,1 @@
+This is the final project for CSP. We will use git and work on a platformer.
